@@ -129,8 +129,8 @@ p{
 }
 
 .video iframe{
-    width: 700px;
-    height: 400px;
+    width: 40vw;
+    height: 50vh;
     border-radius: 5%;
     box-shadow: 1px 1px 7px #888;
     filter: saturate(0%);
